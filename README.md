@@ -1,5 +1,5 @@
 # MXL
-Convective boundary layer slab model
+Convective boundary layer slab model / Samuli Launiainen 20.09.2018
 
 Simple Python-implementation of convective mixed boundary layer model. Based maily on:
 Janssen & Pozzer, 2015. Geosci Model Devel. 8, 453 - 471.
