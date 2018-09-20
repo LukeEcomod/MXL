@@ -2,9 +2,9 @@
 Convective boundary layer slab model / Samuli Launiainen 20.09.2018
 
 Simple Python-implementation of convective mixed boundary layer model. Based maily on:
-Janssen & Pozzer, 2015. Geosci Model Devel. 8, 453 - 471.
-Stull, 1988. Boundary layer -handbook
-Matlab-code of Gaby Katul (lifting condensation level)
+* Janssen & Pozzer, 2015. Geosci Model Devel. 8, 453 - 471.: https://www.geosci-model-dev.net/8/453/2015/gmd-8-453-2015.pdf
+* Stull, 1988. Boundary layer -handbook
+* Matlab-code of Gaby Katul (lifting condensation level)
 
 mxl - model code
 mxl_demo - simple demonstration of MXL-model using one daytime data from Hyytiälä.
