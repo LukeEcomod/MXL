@@ -128,7 +128,7 @@ plt.subplot(224); plt.plot(tt, forc['ust'], 'k'); plt.ylabel('ustar (m s-1)')
 plt.savefig('forc.png')
 
 plt.figure(2)
-plt.subplot(321); plt.plot(tt, res['h'], label='mxl'); plt.plot(tt, h_lcl, label='lcl'); 
+plt.subplot(321); plt.plot(tt, res['h'], label='mxl'); plt.plot(tt, res['h_lcl'], label='lcl'); 
 plt.ylabel('mxl and lcl height (m)'); plt.legend(fontsize=8)
 plt.subplot(322); plt.plot(tt, res['theta']); plt.ylabel('Theta (K)')
 plt.subplot(323); plt.plot(tt, res['q']); plt.ylabel('q (kg/kg)')
